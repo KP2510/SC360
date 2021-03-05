@@ -1,0 +1,86 @@
+[
+    {
+        "productBase": "H12RTA",
+        "region": "EMEA",
+        "supplier": "FLEX",
+        "regionalPlanner": "Micheal",
+        "shortage": "-$15,268,122" 
+    },
+    {
+        "productBase": "RT12AS",
+        "region": "AMS",
+        "supplier": "SERCOMM",
+        "regionalPlanner": "Michelle",
+        "shortage": "+$15,554" 
+    },
+    {
+        "productBase": "TW846T",
+        "region": "AMS",
+        "supplier": "SSCI",
+        "regionalPlanner": "Olga",
+        "shortage": "-$5,564,333" 
+    },
+    {
+        "productBase": "QT234E",
+        "region": "EMEA",
+        "supplier": "SERCOMM",
+        "regionalPlanner": "Pel Shan",
+        "shortage": "+$156,653" 
+    },
+    {
+        "productBase": "IIWE32",
+        "region": "APJ",
+        "supplier": "WNC",
+        "regionalPlanner": "Hector",
+        "shortage": "-$1,263,664" 
+    },
+    {
+        "productBase": "PQ12WD",
+        "region": "APJ",
+        "supplier": "FLEX",
+        "regionalPlanner": "Olga",
+        "shortage": "+$127,453,876" 
+    },
+    {
+        "productBase": "IU1234",
+        "region": "APJ",
+        "supplier": "WNC",
+        "regionalPlanner": "Hector",
+        "shortage": "-$1,263,634" 
+    },
+    {
+        "productBase": "TYW425",
+        "region": "EMEA",
+        "supplier": "FLEX",
+        "regionalPlanner": "Olga",
+        "shortage": "-$127,153,876" 
+    },
+    {
+        "productBase": "TYE453",
+        "region": "APJ",
+        "supplier": "WNC",
+        "regionalPlanner": "Hector",
+        "shortage": "+$1,222,664" 
+    },
+    {
+        "productBase": "TREWL2",
+        "region": "AMS",
+        "supplier": "FLEX",
+        "regionalPlanner": "Racheal",
+        "shortage": "-$153,876" 
+    },
+    {
+        "productBase": "WE5621",
+        "region": "APJ",
+        "supplier": "WNC",
+        "regionalPlanner": "Hector",
+        "shortage": "+$14,122,664" 
+    },
+    {
+        "productBase": "JJHDG2",
+        "region": "APJ",
+        "supplier": "FLEX",
+        "regionalPlanner": "Racheal",
+        "shortage": "+$153,765,876" 
+    }
+]

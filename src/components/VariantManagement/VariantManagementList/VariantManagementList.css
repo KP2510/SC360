@@ -1,0 +1,8 @@
+.VariantManagementContent .ant-popover-inner-content {
+    padding: 0
+}
+
+.ListItem:hover {
+    cursor: pointer;
+    background-color: lightgray;
+}

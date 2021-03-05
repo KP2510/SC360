@@ -1,0 +1,260 @@
+{
+    "columns": [
+        {
+            "field": "productBase",
+            "displayName": "Product Base"
+        },
+        {
+            "field": "part",
+            "displayName": "Part"
+        },
+        {
+            "field": "regionBase",
+            "displayName": "Region Base"
+        },
+        {
+            "field": "orderLine",
+            "displayName": "Order Line"
+        },
+        {
+            "field": "orderType",
+            "displayName": "Order Type"
+        },
+        {
+            "field": "orderQty",
+            "displayName": "Order Qty"
+        },
+        {
+            "field": "amount",
+            "displayName": "Amount"
+        },
+        {
+            "field": "customer",
+            "displayName": "Customer"
+        },
+        {
+            "field": "country",
+            "displayName": "Country"
+        },
+        {
+            "field": "region",
+            "displayName": "Region"
+        },
+        {
+            "field": "node",
+            "displayName": "Node"
+        },
+        {
+            "field": "riskQty",
+            "displayName": "Risk (Qty)"
+        },
+        {
+            "field": "risk$",
+            "displayName": "Risk $"
+        },
+        {
+            "field": "partDetail1",
+            "displayName": "Part Detail 1"
+        },
+        {
+            "field": "partDetail2",
+            "displayName": "Part Detail 2"
+        },
+        {
+            "field": "partDetailn",
+            "displayName": "Part Detail n"
+        }
+    ],
+    "data": [
+        {
+            "id": 1,
+            "productBase": "J4567E",
+            "part": "SKU 435677",
+            "regionBase": "APJ-J4567E",
+            "orderLine": "7701339100-200",
+            "orderType": "ZOR-Trade order",
+            "orderQty": "770",
+            "amount": "$5,723",
+            "customer": "Redington LTD",
+            "country": "India",
+            "region": "APJ",
+            "node": "APJ DC",
+            "riskQty": "0",
+            "risk$": "23,332",
+            "partDetail1": "SKU 435677",
+            "partDetail2": "SKU 435677",
+            "partDetailn": "SKU 435677"
+        },
+        {
+            "id": 2,
+            "productBase": "J4567E",
+            "part": "SKU 435677",
+            "regionBase": "APJ-J4567E",
+            "orderLine": "7701339100-200",
+            "orderType": "ZOR-Trade order",
+            "orderQty": "770",
+            "amount": "$5,723",
+            "customer": "Redington LTD",
+            "country": "India",
+            "region": "APJ",
+            "node": "APJ DC",
+            "riskQty": "0",
+            "risk$": "23,332",
+            "partDetail1": "SKU 435677",
+            "partDetail2": "SKU 435677",
+            "partDetailn": "SKU 435677"
+        },
+        {
+            "id": 3,
+            "productBase": "J4567E",
+            "part": "SKU 435677",
+            "regionBase": "APJ-J4567E",
+            "orderLine": "7701339100-200",
+            "orderType": "ZOR-Trade order",
+            "orderQty": "770",
+            "amount": "$5,723",
+            "customer": "Redington LTD",
+            "country": "India",
+            "region": "APJ",
+            "node": "APJ DC",
+            "riskQty": "0",
+            "risk$": "23,332",
+            "partDetail1": "SKU 435677",
+            "partDetail2": "SKU 435677",
+            "partDetailn": "SKU 435677"
+        },
+        {
+            "id": 4,
+            "productBase": "J4567E",
+            "part": "SKU 435677",
+            "regionBase": "APJ-J4567E",
+            "orderLine": "7701339100-200",
+            "orderType": "ZOR-Trade order",
+            "orderQty": "770",
+            "amount": "$5,723",
+            "customer": "Redington LTD",
+            "country": "India",
+            "region": "APJ",
+            "node": "APJ DC",
+            "riskQty": "0",
+            "risk$": "23,332",
+            "partDetail1": "SKU 435677",
+            "partDetail2": "SKU 435677",
+            "partDetailn": "SKU 435677"
+        },
+        {
+            "id": 5,
+            "productBase": "J4567E",
+            "part": "SKU 435677",
+            "regionBase": "APJ-J4567E",
+            "orderLine": "7701339100-200",
+            "orderType": "ZOR-Trade order",
+            "orderQty": "770",
+            "amount": "$5,723",
+            "customer": "Redington LTD",
+            "country": "India",
+            "region": "APJ",
+            "node": "APJ DC",
+            "riskQty": "0",
+            "risk$": "23,332",
+            "partDetail1": "SKU 435677",
+            "partDetail2": "SKU 435677",
+            "partDetailn": "SKU 435677"
+        },
+        {
+            "id": 6,
+            "productBase": "J4567E",
+            "part": "SKU 435677",
+            "regionBase": "APJ-J4567E",
+            "orderLine": "7701339100-200",
+            "orderType": "ZOR-Trade order",
+            "orderQty": "770",
+            "amount": "$5,723",
+            "customer": "Redington LTD",
+            "country": "India",
+            "region": "APJ",
+            "node": "APJ DC",
+            "riskQty": "0",
+            "risk$": "23,332",
+            "partDetail1": "SKU 435677",
+            "partDetail2": "SKU 435677",
+            "partDetailn": "SKU 435677"
+        },
+        {
+            "id": 7,
+            "productBase": "J4567E",
+            "part": "SKU 435677",
+            "regionBase": "APJ-J4567E",
+            "orderLine": "7701339100-200",
+            "orderType": "ZOR-Trade order",
+            "orderQty": "770",
+            "amount": "$5,723",
+            "customer": "Redington LTD",
+            "country": "India",
+            "region": "APJ",
+            "node": "APJ DC",
+            "riskQty": "0",
+            "risk$": "23,332",
+            "partDetail1": "SKU 435677",
+            "partDetail2": "SKU 435677",
+            "partDetailn": "SKU 435677"
+        },
+        {
+            "id": 8,
+            "productBase": "J4567E",
+            "part": "SKU 435677",
+            "regionBase": "APJ-J4567E",
+            "orderLine": "7701339100-200",
+            "orderType": "ZOR-Trade order",
+            "orderQty": "770",
+            "amount": "$5,723",
+            "customer": "Redington LTD",
+            "country": "India",
+            "region": "APJ",
+            "node": "APJ DC",
+            "riskQty": "0",
+            "risk$": "23,332",
+            "partDetail1": "SKU 435677",
+            "partDetail2": "SKU 435677",
+            "partDetailn": "SKU 435677"
+        },
+        {
+            "id": 9,
+            "productBase": "J4567E",
+            "part": "SKU 435677",
+            "regionBase": "APJ-J4567E",
+            "orderLine": "7701339100-200",
+            "orderType": "ZOR-Trade order",
+            "orderQty": "770",
+            "amount": "$5,723",
+            "customer": "Redington LTD",
+            "country": "India",
+            "region": "APJ",
+            "node": "APJ DC",
+            "riskQty": "0",
+            "risk$": "23,332",
+            "partDetail1": "SKU 435677",
+            "partDetail2": "SKU 435677",
+            "partDetailn": "SKU 435677"
+        },
+        {
+            "id": 10,
+            "productBase": "J4567E",
+            "part": "SKU 435677",
+            "regionBase": "APJ-J4567E",
+            "orderLine": "7701339100-200",
+            "orderType": "ZOR-Trade order",
+            "orderQty": "770",
+            "amount": "$5,723",
+            "customer": "Redington LTD",
+            "country": "India",
+            "region": "APJ",
+            "node": "APJ DC",
+            "riskQty": "0",
+            "risk$": "23,332",
+            "partDetail1": "SKU 435677",
+            "partDetail2": "SKU 435677",
+            "partDetailn": "SKU 435677"
+        }
+    ]
+}

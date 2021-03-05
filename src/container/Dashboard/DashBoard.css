@@ -1,0 +1,83 @@
+.Tabs > .ant-tabs-top > .ant-tabs-nav, .ant-tabs-bottom > .ant-tabs-nav, .ant-tabs-top > div > .ant-tabs-nav, .ant-tabs-bottom > div > .ant-tabs-nav{
+    margin: 0 0 0 0;
+    padding: 25px 25px 0px 25px;
+}
+
+.Tabs > .ant-tabs-top > .ant-tabs-nav::before, .ant-tabs-bottom > .ant-tabs-nav::before, .ant-tabs-top > div > .ant-tabs-nav::before, .ant-tabs-bottom > div > .ant-tabs-nav::before {
+    border-bottom: none;
+}
+
+.Tabs > .ant-tabs {
+    color: white;
+}
+
+.Tabs .ant-tabs-tab-btn:focus, .ant-tabs-tab-remove:focus, .ant-tabs-tab-btn:active, .ant-tabs-tab-remove:active {
+    color: white;
+}
+
+.Tabs .ant-tabs-tab.ant-tabs-tab-active .ant-tabs-tab-btn {
+    color: white;
+    font-weight: bold;
+    /* padding: 0px 10px; */
+    margin: 0px;
+}
+
+.Tabs .ant-tabs-tab:hover {
+    color: #A5CD39;
+}
+
+.Tabs .ant-tabs-ink-bar {
+    background: #A5CD39;
+}
+
+.Tabs .ant-collapse-header{
+    padding: 12px 35px !important;
+}
+
+.Tabs .ant-collapse-content{
+    border: none;
+}
+
+.Tabs .ant-collapse-content-box{
+    padding: 0px 16px 16px 16px;
+}
+
+.Tabs .ant-tabs-content-holder{
+    margin: 0px 10px 0px 10px;
+}
+
+.Tabs .ant-tabs-top > .ant-tabs-nav .ant-tabs-ink-bar, .ant-tabs-bottom > .ant-tabs-nav .ant-tabs-ink-bar, .ant-tabs-top > div > .ant-tabs-nav .ant-tabs-ink-bar, .ant-tabs-bottom > div > .ant-tabs-nav .ant-tabs-ink-bar {
+    height: 5px;
+}
+
+.ant-card-meta-detail .ant-card-meta-title {
+    white-space: normal;
+}
+
+.Tabs .ant-tabs-tab {
+    margin: 0 10px 0 0;
+    padding: 12px 8px;
+}
+
+.pd-master-filter {
+    min-width: 93%;
+    display: flex;
+    margin-right: 20px;
+    align-items: baseline;
+    justify-content: space-between;
+    padding: 10px;
+    z-index: 10;
+    border-radius: 5px;
+     background-color: white;
+}
+
+.pd-switch {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    padding: 10px;
+    z-index: 10;
+    border-radius: 5px;
+    background-color: white;
+    width: 80px;
+}

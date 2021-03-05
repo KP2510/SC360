@@ -1,0 +1,794 @@
+{
+    "filter": {
+        "id": 1,
+        "userId": "1",
+        "Name": "Standard",
+        "default": 1,
+        "sharing": 1,
+        "type": 1,
+        "filter": {
+            "region": [
+                "AMS",
+                "EMEA",
+                "APJ"
+            ],
+            "productBase": [
+                "H12RTA",
+                "JL659A",
+                "Q9H63A",
+                "JJHDG2",
+                "R2H2BA",
+                "QT234E",
+                "RT12AS",
+                "TREWL2",
+                "TW846T",
+                "TYE453",
+                "TYW425",
+                "WE5621"
+            ],
+            "regionalPlanner": [
+                "Micheal",
+                "Michelle",
+                "Michaela",
+                "Olga M.Aviles",
+                "Pel Shan",
+                "Hector Trujillo",
+                "Racheal"
+            ]
+        }
+    },
+    "table": {
+        "parent": [
+            {
+                "name": "SKU Shortages",
+                "columns": [
+                    {
+                        "field": "product_base",
+                        "displayName": "Product Base"
+                    },
+                    {
+                        "field": "region",
+                        "displayName": "Region"
+                    },
+                    {
+                        "field": "supplier",
+                        "displayName": "Supplier"
+                    },
+                    {
+                        "field": "regional_planner",
+                        "displayName": "Regional Planner"
+                    },
+                    {
+                        "field": "shortage_qty",
+                        "displayName": "Shortage Quantity"
+                    },
+                    {
+                        "field": "shortage_dollar",
+                        "displayName": "Shortage $"
+                    },
+                    {
+                        "field": "rev_gap_qty",
+                        "displayName": "Rev Gap Math Qty"
+                    },
+                    {
+                        "field": "rev_gap_qty_dollar",
+                        "displayName": "Rev Gap Math Qty $"
+                    }
+                ],
+                "data": [
+                    {
+                        "id": 1,
+                        "product_base": "JL659A",
+                        "region": "EMEA",
+                        "supplier": "FLEX",
+                        "regional_planner": "Michaela",
+                        "shortage_qty": "-2947",
+                        "shortage_dollar": "-$15,268,122",
+                        "rev_gap_qty": "2919",
+                        "rev_gap_qty_dollar": "$15,124,164"
+                    },
+                    {
+                        "id": 2,
+                        "product_base": "Q9H63A",
+                        "region": "AMS",
+                        "supplier": "SERCOMM",
+                        "regional_planner": "Olga M.Aviles",
+                        "shortage_qty": "-2947",
+                        "shortage_dollar": "-$15,268,122",
+                        "rev_gap_qty": "2919",
+                        "rev_gap_qty_dollar": "$15,124,164"
+                    },
+                    {
+                        "id": 3,
+                        "product_base": "R2H2BA",
+                        "region": "AMS",
+                        "supplier": "FLEX",
+                        "regional_planner": "Hector Trujillo",
+                        "shortage_qty": "-2947",
+                        "shortage_dollar": "-$15,268,122",
+                        "rev_gap_qty": "2919",
+                        "rev_gap_qty_dollar": "$15,124,164"
+                    },
+                    {
+                        "id": 4,
+                        "product_base": "JL659A",
+                        "region": "EMEA",
+                        "supplier": "FLEX",
+                        "regional_planner": "Michaela",
+                        "shortage_qty": "-2947",
+                        "shortage_dollar": "-$15,268,122",
+                        "rev_gap_qty": "2919",
+                        "rev_gap_qty_dollar": "$15,124,164"
+                    },
+                    {
+                        "id": 5,
+                        "product_base": "Q9H63A",
+                        "region": "AMS",
+                        "supplier": "SERCOMM",
+                        "regional_planner": "Olga M.Aviles",
+                        "shortage_qty": "-2947",
+                        "shortage_dollar": "-$15,268,122",
+                        "rev_gap_qty": "2919",
+                        "rev_gap_qty_dollar": "$15,124,164"
+                    },
+                    {
+                        "id": 6,
+                        "product_base": "R2H2BA",
+                        "region": "AMS",
+                        "supplier": "FLEX",
+                        "regional_planner": "Hector Trujillo",
+                        "shortage_qty": "-2947",
+                        "shortage_dollar": "-$15,268,122",
+                        "rev_gap_qty": "2919",
+                        "rev_gap_qty_dollar": "$15,124,164"
+                    },
+                    {
+                        "id": 7,
+                        "product_base": "JL659A",
+                        "region": "EMEA",
+                        "supplier": "FLEX",
+                        "regional_planner": "Michaela",
+                        "shortage_qty": "-2947",
+                        "shortage_dollar": "-$15,268,122",
+                        "rev_gap_qty": "2919",
+                        "rev_gap_qty_dollar": "$15,124,164"
+                    },
+                    {
+                        "id": 8,
+                        "product_base": "Q9H63A",
+                        "region": "AMS",
+                        "supplier": "SERCOMM",
+                        "regional_planner": "Olga M.Aviles",
+                        "shortage_qty": "-2947",
+                        "shortage_dollar": "-$15,268,122",
+                        "rev_gap_qty": "2919",
+                        "rev_gap_qty_dollar": "$15,124,164"
+                    },
+                    {
+                        "id": 9,
+                        "product_base": "R2H2BA",
+                        "region": "AMS",
+                        "supplier": "FLEX",
+                        "regional_planner": "Hector Trujillo",
+                        "shortage_qty": "-2947",
+                        "shortage_dollar": "-$15,268,122",
+                        "rev_gap_qty": "2919",
+                        "rev_gap_qty_dollar": "$15,124,164"
+                    },
+                    {
+                        "id": 10,
+                        "product_base": "JL659A",
+                        "region": "EMEA",
+                        "supplier": "FLEX",
+                        "regional_planner": "Michaela",
+                        "shortage_qty": "-2947",
+                        "shortage_dollar": "-$15,268,122",
+                        "rev_gap_qty": "2919",
+                        "rev_gap_qty_dollar": "$15,124,164"
+                    },
+                    {
+                        "id": 11,
+                        "product_base": "Q9H63A",
+                        "region": "AMS",
+                        "supplier": "SERCOMM",
+                        "regional_planner": "Olga M.Aviles",
+                        "shortage_qty": "-2947",
+                        "shortage_dollar": "-$15,268,122",
+                        "rev_gap_qty": "2919",
+                        "rev_gap_qty_dollar": "$15,124,164"
+                    },
+                    {
+                        "id": 12,
+                        "product_base": "R2H2BA",
+                        "region": "AMS",
+                        "supplier": "FLEX",
+                        "regional_planner": "Hector Trujillo",
+                        "shortage_qty": "-2947",
+                        "shortage_dollar": "-$15,268,122",
+                        "rev_gap_qty": "2919",
+                        "rev_gap_qty_dollar": "$15,124,164"
+                    },
+                    {
+                        "id": 13,
+                        "product_base": "JL659A",
+                        "region": "EMEA",
+                        "supplier": "FLEX",
+                        "regional_planner": "Michaela",
+                        "shortage_qty": "-2947",
+                        "shortage_dollar": "-$15,268,122",
+                        "rev_gap_qty": "2919",
+                        "rev_gap_qty_dollar": "$15,124,164"
+                    },
+                    {
+                        "id": 14,
+                        "product_base": "Q9H63A",
+                        "region": "AMS",
+                        "supplier": "SERCOMM",
+                        "regional_planner": "Olga M.Aviles",
+                        "shortage_qty": "-2947",
+                        "shortage_dollar": "-$15,268,122",
+                        "rev_gap_qty": "2919",
+                        "rev_gap_qty_dollar": "$15,124,164"
+                    },
+                    {
+                        "id": 15,
+                        "product_base": "R2H2BA",
+                        "region": "AMS",
+                        "supplier": "FLEX",
+                        "regional_planner": "Hector Trujillo",
+                        "shortage_qty": "-2947",
+                        "shortage_dollar": "-$15,268,122",
+                        "rev_gap_qty": "2919",
+                        "rev_gap_qty_dollar": "$15,124,164"
+                    },
+                    {
+                        "id": 16,
+                        "product_base": "JL659A",
+                        "region": "EMEA",
+                        "supplier": "FLEX",
+                        "regional_planner": "Michaela",
+                        "shortage_qty": "-2947",
+                        "shortage_dollar": "-$15,268,122",
+                        "rev_gap_qty": "2919",
+                        "rev_gap_qty_dollar": "$15,124,164"
+                    }
+                ],
+                "children": [
+                    {
+                        "columns": [
+                            {
+                                "field": "actuals&Plan",
+                                "displayName": "Actuals & Plan"
+                            },
+                            {
+                                "field": "emea01Ka",
+                                "displayName": "EMEA_01KA"
+                            },
+                            {
+                                "field": "emeaTotal",
+                                "displayName": "EMEA Total"
+                            }
+                        ],
+                        "data": [
+                            {
+                                "id": 1,
+                                "actuals&Plan": "DP POR",
+                                "emea01Ka": "",
+                                "parent_id": "1",
+                                "emeaTotal": "5770",
+                                "createdAt": "2020-06-05 11:24:30",
+                                "updatedAt": "2020-06-05 11:24:30"
+                            },
+                            {
+                                "id": 2,
+                                "actuals&Plan": "Rolled Backlog",
+                                "emea01Ka": "",
+                                "parent_id": "1",
+                                "emeaTotal": "3200",
+                                "createdAt": "2020-06-05 11:24:30",
+                                "updatedAt": "2020-06-05 11:24:30"
+                            },
+                            {
+                                "id": 3,
+                                "actuals&Plan": "DP Qtr",
+                                "emea01Ka": "",
+                                "parent_id": "1",
+                                "emeaTotal": "600",
+                                "createdAt": "2020-06-05 11:24:30",
+                                "updatedAt": "2020-06-05 11:24:30"
+                            },
+                            {
+                                "id": 4,
+                                "actuals&Plan": "DP Qtr+ Rolled",
+                                "emea01Ka": "",
+                                "parent_id": "1",
+                                "emeaTotal": "3800",
+                                "createdAt": "2020-06-05 11:24:30",
+                                "updatedAt": "2020-06-05 11:24:30"
+                            },
+                            {
+                                "id": 5,
+                                "actuals&Plan": "DP NQ",
+                                "emea01Ka": "",
+                                "parent_id": "1",
+                                "emeaTotal": "650",
+                                "createdAt": "2020-06-05 11:24:30",
+                                "updatedAt": "2020-06-05 11:24:30"
+                            },
+                            {
+                                "id": 6,
+                                "actuals&Plan": "Orders QTD",
+                                "emea01Ka": "",
+                                "parent_id": "1",
+                                "emeaTotal": "6",
+                                "createdAt": "2020-06-05 11:24:30",
+                                "updatedAt": "2020-06-05 11:24:30"
+                            },
+                            {
+                                "id": 7,
+                                "actuals&Plan": "Ships QTD",
+                                "emea01Ka": "",
+                                "parent_id": "1",
+                                "emeaTotal": "259",
+                                "createdAt": "2020-06-05 11:24:30",
+                                "updatedAt": "2020-06-05 11:24:30"
+                            },
+                            {
+                                "id": 8,
+                                "actuals&Plan": "Ships TR QTD",
+                                "emea01Ka": "",
+                                "parent_id": "1",
+                                "emeaTotal": "259",
+                                "createdAt": "2020-06-05 11:24:30",
+                                "updatedAt": "2020-06-05 11:24:30"
+                            },
+                            {
+                                "id": 9,
+                                "actuals&Plan": "Ships IC QTD",
+                                "emea01Ka": "",
+                                "parent_id": "1",
+                                "emeaTotal": "0",
+                                "createdAt": "2020-06-05 11:24:30",
+                                "updatedAt": "2020-06-05 11:24:30"
+                            },
+                            {
+                                "id": 10,
+                                "actuals&Plan": "Total Load",
+                                "emea01Ka": "",
+                                "parent_id": "1",
+                                "emeaTotal": "3200",
+                                "createdAt": "2020-06-05 11:24:30",
+                                "updatedAt": "2020-06-05 11:24:30"
+                            },
+                            {
+                                "id": 11,
+                                "actuals&Plan": "Load vs DP",
+                                "emea01Ka": "",
+                                "parent_id": "1",
+                                "emeaTotal": "84%",
+                                "createdAt": "2020-06-05 11:24:30",
+                                "updatedAt": "2020-06-05 11:24:30"
+                            },
+                            {
+                                "id": 12,
+                                "actuals&Plan": "Load vs POR",
+                                "emea01Ka": "",
+                                "parent_id": "1",
+                                "emeaTotal": "0%",
+                                "createdAt": "2020-06-05 11:24:30",
+                                "updatedAt": "2020-06-05 11:24:30"
+                            },
+                            {
+                                "id": 13,
+                                "actuals&Plan": "DP Orders To Go",
+                                "emea01Ka": "",
+                                "parent_id": "1",
+                                "emeaTotal": "594",
+                                "createdAt": "2020-06-05 11:24:30",
+                                "updatedAt": "2020-06-05 11:24:30"
+                            },
+                            {
+                                "id": 14,
+                                "actuals&Plan": "DP Cover %",
+                                "emea01Ka": "",
+                                "parent_id": "1",
+                                "emeaTotal": "95%",
+                                "createdAt": "2020-06-05 11:24:30",
+                                "updatedAt": "2020-06-05 11:24:30"
+                            }
+                        ]
+                    },
+                    {
+                        "columns": [
+                            {
+                                "field": "backlog",
+                                "displayName": "Backlog"
+                            },
+                            {
+                                "field": "emea01Ka",
+                                "displayName": "EMEA_01KA"
+                            },
+                            {
+                                "field": "emeaTotal",
+                                "displayName": "EMEA Total"
+                            }
+                        ],
+                        "data": [
+                            {
+                                "id": 1,
+                                "backlog": "Backlog Total",
+                                "emea01Ka": "2947",
+                                "parent_id": "1",
+                                "emeaTotal": "2947",
+                                "createdAt": "2020-06-05 11:24:30",
+                                "updatedAt": "2020-06-05 11:24:30"
+                            },
+                            {
+                                "id": 2,
+                                "backlog": "Backlog TR",
+                                "emea01Ka": "2947",
+                                "parent_id": "1",
+                                "emeaTotal": "2923",
+                                "createdAt": "2020-06-05 11:24:30",
+                                "updatedAt": "2020-06-05 11:24:30"
+                            },
+                            {
+                                "id": 3,
+                                "backlog": "Backlog IC I",
+                                "emea01Ka": "2947",
+                                "parent_id": "1",
+                                "emeaTotal": "13",
+                                "createdAt": "2020-06-05 11:24:30",
+                                "updatedAt": "2020-06-05 11:24:30"
+                            },
+                            {
+                                "id": 4,
+                                "backlog": "Backlog IC R",
+                                "emea01Ka": "2947",
+                                "parent_id": "1",
+                                "emeaTotal": "11",
+                                "createdAt": "2020-06-05 11:24:30",
+                                "updatedAt": "2020-06-05 11:24:30"
+                            },
+                            {
+                                "id": 5,
+                                "backlog": "Backlog OTHER",
+                                "emea01Ka": "2947",
+                                "parent_id": "1",
+                                "emeaTotal": "0",
+                                "createdAt": "2020-06-05 11:24:30",
+                                "updatedAt": "2020-06-05 11:24:30"
+                            },
+                            {
+                                "id": 6,
+                                "backlog": "Backlog ZQT",
+                                "emea01Ka": "2947",
+                                "parent_id": "1",
+                                "emeaTotal": "0",
+                                "createdAt": "2020-06-05 11:24:30",
+                                "updatedAt": "2020-06-05 11:24:30"
+                            },
+                            {
+                                "id": 7,
+                                "backlog": "Backlog ZNC",
+                                "emea01Ka": "2947",
+                                "parent_id": "1",
+                                "emeaTotal": "0",
+                                "createdAt": "2020-06-05 11:24:30",
+                                "updatedAt": "2020-06-05 11:24:30"
+                            },
+                            {
+                                "id": 8,
+                                "backlog": "Shortage",
+                                "emea01Ka": "2947",
+                                "parent_id": "1",
+                                "emeaTotal": "-2947",
+                                "createdAt": "2020-06-05 11:24:30",
+                                "updatedAt": "2020-06-05 11:24:30"
+                            },
+                            {
+                                "id": 9,
+                                "backlog": "Rev Gap Math",
+                                "emea01Ka": "2947",
+                                "parent_id": "1",
+                                "emeaTotal": "2919",
+                                "createdAt": "2020-06-05 11:24:30",
+                                "updatedAt": "2020-06-05 11:24:30"
+                            },
+                            {
+                                "id": 10,
+                                "backlog": "Rev Gap QTR",
+                                "emea01Ka": "2947",
+                                "parent_id": "1",
+                                "emeaTotal": "2919",
+                                "createdAt": "2020-06-05 11:24:30",
+                                "updatedAt": "2020-06-05 11:24:30"
+                            },
+                            {
+                                "id": 11,
+                                "backlog": "New Order",
+                                "emea01Ka": "2947",
+                                "parent_id": "1",
+                                "emeaTotal": "0",
+                                "createdAt": "2020-06-05 11:24:30",
+                                "updatedAt": "2020-06-05 11:24:30"
+                            },
+                            {
+                                "id": 12,
+                                "backlog": "0-5 Days %",
+                                "emea01Ka": "2947",
+                                "parent_id": "1",
+                                "emeaTotal": "0%",
+                                "createdAt": "2020-06-05 11:24:30",
+                                "updatedAt": "2020-06-05 11:24:30"
+                            },
+                            {
+                                "id": 13,
+                                "backlog": "6-10 Days %",
+                                "emea01Ka": "2947",
+                                "parent_id": "1",
+                                "emeaTotal": "0%",
+                                "createdAt": "2020-06-05 11:24:30",
+                                "updatedAt": "2020-06-05 11:24:30"
+                            },
+                            {
+                                "id": 14,
+                                "backlog": "11-20 Days %",
+                                "emea01Ka": "2947",
+                                "parent_id": "1",
+                                "emeaTotal": "92%",
+                                "createdAt": "2020-06-05 11:24:30",
+                                "updatedAt": "2020-06-05 11:24:30"
+                            },
+                            {
+                                "id": 15,
+                                "backlog": ">20 Days %",
+                                "emea01Ka": "2947",
+                                "parent_id": "1",
+                                "emeaTotal": "8%",
+                                "createdAt": "2020-06-05 11:24:30",
+                                "updatedAt": "2020-06-05 11:24:30"
+                            }
+                        ]
+                    },
+                    {
+                        "columns": [
+                            {
+                                "field": "inventory",
+                                "displayName": "Inventory"
+                            },
+                            {
+                                "field": "emea01Ka",
+                                "displayName": "EMEA_01KA"
+                            },
+                            {
+                                "field": "emeaTotal",
+                                "displayName": "EMEA Total"
+                            }
+                        ],
+                        "data": [
+                            {
+                                "id": 1,
+                                "inventory": "Available",
+                                "emea01Ka": "0",
+                                "parent_id": "1",
+                                "emeaTotal": "0",
+                                "createdAt": "2020-06-05 11:24:30",
+                                "updatedAt": "2020-06-05 11:24:30"
+                            },
+                            {
+                                "id": 2,
+                                "inventory": "On Hand",
+                                "emea01Ka": "252",
+                                "parent_id": "1",
+                                "emeaTotal": "252",
+                                "createdAt": "2020-06-05 11:24:30",
+                                "updatedAt": "2020-06-05 11:24:30"
+                            },
+                            {
+                                "id": 3,
+                                "inventory": "Consigned",
+                                "emea01Ka": "0",
+                                "parent_id": "1",
+                                "emeaTotal": "0",
+                                "createdAt": "2020-06-05 11:24:30",
+                                "updatedAt": "2020-06-05 11:24:30"
+                            },
+                            {
+                                "id": 4,
+                                "inventory": "In Process",
+                                "emea01Ka": "0",
+                                "parent_id": "1",
+                                "emeaTotal": "0",
+                                "createdAt": "2020-06-05 11:24:30",
+                                "updatedAt": "2020-06-05 11:24:30"
+                            },
+                            {
+                                "id": 5,
+                                "inventory": "In Inspection",
+                                "emea01Ka": "0",
+                                "parent_id": "1",
+                                "emeaTotal": "0",
+                                "createdAt": "2020-06-05 11:24:30",
+                                "updatedAt": "2020-06-05 11:24:30"
+                            },
+                            {
+                                "id": 6,
+                                "inventory": "In Qarantine",
+                                "emea01Ka": "252",
+                                "parent_id": "1",
+                                "emeaTotal": "252",
+                                "createdAt": "2020-06-05 11:24:30",
+                                "updatedAt": "2020-06-05 11:24:30"
+                            },
+                            {
+                                "id": 7,
+                                "inventory": "In Rework",
+                                "emea01Ka": "0",
+                                "parent_id": "1",
+                                "emeaTotal": "0",
+                                "createdAt": "2020-06-05 11:24:30",
+                                "updatedAt": "2020-06-05 11:24:30"
+                            },
+                            {
+                                "id": 8,
+                                "inventory": "Open PO",
+                                "emea01Ka": "3353",
+                                "parent_id": "1",
+                                "emeaTotal": "3353",
+                                "createdAt": "2020-06-05 11:24:30",
+                                "updatedAt": "2020-06-05 11:24:30"
+                            },
+                            {
+                                "id": 9,
+                                "inventory": "Open Po In Qtr",
+                                "emea01Ka": "",
+                                "parent_id": "1",
+                                "emeaTotal": "360",
+                                "createdAt": "2020-06-05 11:24:30",
+                                "updatedAt": "2020-06-05 11:24:30"
+                            },
+                            {
+                                "id": 10,
+                                "inventory": "In Transit",
+                                "emea01Ka": "",
+                                "parent_id": "1",
+                                "emeaTotal": "238",
+                                "createdAt": "2020-06-05 11:24:30",
+                                "updatedAt": "2020-06-05 11:24:30"
+                            },
+                            {
+                                "id": 11,
+                                "inventory": "Rebalance",
+                                "emea01Ka": "",
+                                "parent_id": "1",
+                                "emeaTotal": "0",
+                                "createdAt": "2020-06-05 11:24:30",
+                                "updatedAt": "2020-06-05 11:24:30"
+                            },
+                            {
+                                "id": 12,
+                                "inventory": "Unbooked",
+                                "emea01Ka": "",
+                                "parent_id": "1",
+                                "emeaTotal": "0",
+                                "createdAt": "2020-06-05 11:24:30",
+                                "updatedAt": "2020-06-05 11:24:30"
+                            },
+                            {
+                                "id": 13,
+                                "inventory": "Inv Target",
+                                "emea01Ka": "",
+                                "parent_id": "1",
+                                "emeaTotal": "81",
+                                "createdAt": "2020-06-05 11:24:30",
+                                "updatedAt": "2020-06-05 11:24:30"
+                            },
+                            {
+                                "id": 14,
+                                "inventory": "Safety Stock",
+                                "emea01Ka": "",
+                                "parent_id": "1",
+                                "emeaTotal": "81",
+                                "createdAt": "2020-06-05 11:24:30",
+                                "updatedAt": "2020-06-05 11:24:30"
+                            },
+                            {
+                                "id": 15,
+                                "inventory": "Extra To Hit DP",
+                                "emea01Ka": "",
+                                "parent_id": "1",
+                                "emeaTotal": "188",
+                                "createdAt": "2020-06-05 11:24:30",
+                                "updatedAt": "2020-06-05 11:24:30"
+                            },
+                            {
+                                "id": 16,
+                                "inventory": "Excess Qtr",
+                                "emea01Ka": "",
+                                "parent_id": "1",
+                                "emeaTotal": "0",
+                                "createdAt": "2020-06-05 11:24:30",
+                                "updatedAt": "2020-06-05 11:24:30"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "treeTable": [
+        {
+            "id": 1,
+            "productBase": "JL659A",
+            "region": "EMEA",
+            "supplier": "FLEX",
+            "regionalplanner": "Michaela",
+            "shortageqty": "-2947",
+            "shortage$": "-$15,268,122",
+            "RevGapMathQty": "2919",
+            "RevGapMathQty$": "$15,124,164",
+            "_children": [
+                {
+                    "id": 7,
+                    "productBase": "JY722A",
+                    "region": "AMS",
+                    "supplier": "WNC",
+                    "regionalplanner": "Madai",
+                    "shortageqty": "-6900",
+                    "shortage$": "-$1,638,750",
+                    "RevGapMathQty": "6897",
+                    "RevGapMathQty$": "$1,638,038"
+                },
+                {
+                    "id": 8,
+                    "productBase": "JL660A",
+                    "region": "AMS",
+                    "supplier": "FLEX",
+                    "regionalplanner": "Hector",
+                    "shortageqty": "-410",
+                    "shortage$": "-$2,638,750",
+                    "RevGapMathQty": "118",
+                    "RevGapMathQty$": "$2,638,038",
+                    "_children": [
+                        {
+                            "id": 3,
+                            "productBase": "JY680A",
+                            "region": "AMS",
+                            "supplier": "SERCOMM",
+                            "regionalplanner": "Olga",
+                            "shortageqty": "-13995",
+                            "shortage$": "-$4,638,750",
+                            "RevGapMathQty": "10693",
+                            "RevGapMathQty$": "$4,638,038"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "productBase": "Q9H63A",
+            "region": "AMS",
+            "supplier": "SERCOMM",
+            "regionalplanner": "Olga M.Aviles",
+            "shortageqty": "-2947",
+            "shortage$": "-$15,268,122",
+            "RevGapMathQty": "2919",
+            "RevGapMathQty$": "$15,124,164",
+            "_children": [
+                {
+                    "id": 5,
+                    "productBase": "R2H2BA",
+                    "region": "APJ",
+                    "supplier": "SERCOM",
+                    "regionalplanner": "Pei Shan Lau",
+                    "shortageqty": "-5317",
+                    "shortage$": "-$2,638,750",
+                    "RevGapMathQty": "4702",
+                    "RevGapMathQty$": "$2,638,038"
+                }
+            ]
+        }
+    ]
+}

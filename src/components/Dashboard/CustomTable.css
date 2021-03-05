@@ -1,0 +1,24 @@
+.tabulator {
+    width: 100%;
+}
+
+.tabulator-row:nth-child(2n){
+    background-color: #f4f6fa;
+}
+
+.tabulator .tabulator-header{
+    background-color: #f4f6fa;
+    border: none !important;
+}
+
+.tabulator-col, .tabulator-row, .tabulator-cell{
+    border: none !important;
+}
+
+.tabulator-col-content{
+    background-color: #f4f6fa;
+}
+
+.tabulator-row.tabulator-selected{
+    background-color: #769bcc;
+}

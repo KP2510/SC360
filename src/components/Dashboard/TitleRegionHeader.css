@@ -1,0 +1,15 @@
+.menuTitle {
+  font-size: small;
+  font-weight: 600;
+  color: 'black';
+  margin-left: 15px;
+}
+
+.periodGroup {
+  margin-left: 20px;
+}
+
+.ant-radio-button-wrapper {
+  font-size: 12px;
+  padding: 0 5px;
+}

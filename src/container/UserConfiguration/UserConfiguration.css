@@ -1,0 +1,27 @@
+.sider-container {  
+  background: #fff;
+  height: calc(100% - 60px);
+}
+
+.site-layout-background {
+  background: #fff;
+}
+
+.content-footer {
+  position: fixed;
+  padding: 24px 0px;
+  bottom: 0px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  background: black;
+  height: 45px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.footer-left {
+  display: flex;
+  justify-content: flex-end;
+  width: 300px;
+}

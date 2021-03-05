@@ -1,0 +1,7 @@
+.ant-card-body .hover-visible {
+    visibility: hidden;
+}
+
+.ant-card-body:hover .hover-visible {
+    visibility: visible;
+}

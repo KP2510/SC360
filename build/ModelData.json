@@ -1,0 +1,102 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "productBase": "H12RTA",
+            "region": "EMEA",
+            "supplier": "FLEX",
+            "regionalplanner": "Micheal",
+            "shortage": "-$15,268,122"
+        },
+        {
+            "id": 2,
+            "productBase": "RT12AS",
+            "region": "AMS",
+            "supplier": "SERCOMM",
+            "regionalplanner": "Michelle",
+            "shortage": "+$15,554"
+        },
+        {
+            "id": 3,
+            "productBase": "TW846T",
+            "region": "AMS",
+            "supplier": "SSCI",
+            "regionalplanner": "Olga",
+            "shortage": "-$5,564,333"
+        },
+        {
+            "id": 4,
+            "productBase": "QT234E",
+            "region": "EMEA",
+            "supplier": "SERCOMM",
+            "regionalplanner": "Pel Shan",
+            "shortage": "+$156,653"
+        },
+        {
+            "id": 7,
+            "productBase": "IIWE32",
+            "region": "APJ",
+            "supplier": "WNC",
+            "regionalplanner": "Hector",
+            "shortage": "-$1,263,664"
+        },
+        {
+            "id": 8,
+            "productBase": "PQ12WD",
+            "region": "APJ",
+            "supplier": "FLEX",
+            "regionalplanner": "Olga",
+            "shortage": "+$127,453,876"
+        },
+        {
+            "id": 9,
+            "productBase": "IU1234",
+            "region": "APJ",
+            "supplier": "WNC",
+            "regionalplanner": "Hector",
+            "shortage": "-$1,263,634"
+        },
+        {
+            "id": 10,
+            "productBase": "TYW425",
+            "region": "EMEA",
+            "supplier": "FLEX",
+            "regionalplanner": "Olga",
+            "shortage": "-$127,153,876"
+        },
+        {
+            "id": 11,
+            "productBase": "TYE453",
+            "region": "APJ",
+            "supplier": "WNC",
+            "regionalplanner": "Hector",
+            "shortage": "+$1,222,664"
+        },
+        {
+            "id": 12,
+            "productBase": "TREWL2",
+            "region": "AMS",
+            "supplier": "FLEX",
+            "regionalplanner": "Racheal",
+            "shortage": "-$153,876"
+        },
+        {
+            "id": 13,
+            "productBase": "WE5621",
+            "region": "APJ",
+            "supplier": "WNC",
+            "regionalplanner": "Hector",
+            "shortage": "+$14,122,664"
+        },
+        {
+            "id": 14,
+            "productBase": "JJHDG2",
+            "region": "APJ",
+            "supplier": "FLEX",
+            "regionalplanner": "Racheal",
+            "shortage": "+$153,765,876"
+        }
+    ],
+    "message": "Success",
+    "statusCode": 200
+}

@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "productBase": "JL659A",
+        "region": "EMEA",
+        "supplier": "FLEX",
+        "regionalplanner": "Michaela",
+        "shortageqty": "-2947",
+        "shortage$": "-$15,268,122",
+        "RevGapMathQty": "2919",
+        "RevGapMathQty$": "$15,124,164",
+        "_children": [
+            {
+                "id": 7,
+                "productBase": "JY722A",
+                "region": "AMS",
+                "supplier": "WNC",
+                "regionalplanner": "Madai",
+                "shortageqty": "-6900",
+                "shortage$": "-$1,638,750",
+                "RevGapMathQty": "6897",
+                "RevGapMathQty$": "$1,638,038"
+            },
+            {
+                "id": 8,
+                "productBase": "JL660A",
+                "region": "AMS",
+                "supplier": "FLEX",
+                "regionalplanner": "Hector",
+                "shortageqty": "-410",
+                "shortage$": "-$2,638,750",
+                "RevGapMathQty": "118",
+                "RevGapMathQty$": "$2,638,038",
+                "_children": [
+                    {
+                        "id": 3,
+                        "productBase": "JY680A",
+                        "region": "AMS",
+                        "supplier": "SERCOMM",
+                        "regionalplanner": "Olga",
+                        "shortageqty": "-13995",
+                        "shortage$": "-$4,638,750",
+                        "RevGapMathQty": "10693",
+                        "RevGapMathQty$": "$4,638,038"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "productBase": "Q9H63A",
+        "region": "AMS",
+        "supplier": "SERCOMM",
+        "regionalplanner": "Olga M.Aviles",
+        "shortageqty": "-2947",
+        "shortage$": "-$15,268,122",
+        "RevGapMathQty": "2919",
+        "RevGapMathQty$": "$15,124,164",
+        "_children": [
+            {
+                "id": 5,
+                "productBase": "R2H2BA",
+                "region": "APJ",
+                "supplier": "SERCOM",
+                "regionalplanner": "Pei Shan Lau",
+                "shortageqty": "-5317",
+                "shortage$": "-$2,638,750",
+                "RevGapMathQty": "4702",
+                "RevGapMathQty$": "$2,638,038"
+            }
+        ]
+    }
+]

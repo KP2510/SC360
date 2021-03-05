@@ -1,0 +1,16 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  /* background-color: #cce6b8; */
+  /* background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%); */
+  background-color: none;
+}
+
+.App {
+  justify-content: center;
+  align-items: center;
+}

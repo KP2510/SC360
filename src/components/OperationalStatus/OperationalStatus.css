@@ -1,0 +1,15 @@
+.operational-status {
+  display: flex;
+  flex-direction: column;
+  padding: 0px 10px;
+}
+
+
+.slick-prev:before,
+.slick-next:before {
+  color: black;
+}
+
+.slick-slide img {
+  margin: auto;
+}

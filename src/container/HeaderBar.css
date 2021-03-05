@@ -1,0 +1,33 @@
+.headerbar {
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    padding: 5px;
+    align-items: center;
+}
+
+.about-modal-container {
+    overflow: 'scroll'
+}
+
+.pg-viewer-wrapper .document-container {
+    border: 1px black solid;
+}
+
+.profile-dropdown{
+    top: 42px !important;
+}
+
+.notification-dropdown{
+    top: 42px !important;
+    max-width: 280px;
+    max-height: 400px;
+    height: auto;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.notification-dropdown li{
+    white-space: normal;
+    /* box-shadow: 0px 0px 2px 0px black; */
+}
